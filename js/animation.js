@@ -20,7 +20,7 @@ function loader(){
     
 
 
-function loader__frontend__verstka(){
+function loader__frontend(){
    document.getElementById("article__frontend__name").style.display = 'none'
    document.getElementById("article__frontend__verstka").style.display = 'none'
     document.getElementById("article__frontend__app").style.display = 'none'
